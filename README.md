@@ -48,5 +48,4 @@ Output: `[True, True, True, False, True]`
 
 ---
 
-## 📂 Folder Structure
 
